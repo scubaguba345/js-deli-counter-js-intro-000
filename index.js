@@ -5,8 +5,8 @@
 function takeANumber(katzDeliLine, number){
     katzDeliLine.push(number)
     return `Hello you are ticket number ${number}`;
-  
-  
+
+
 
   }
 }
